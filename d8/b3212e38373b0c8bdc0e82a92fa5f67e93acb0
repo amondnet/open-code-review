@@ -1,0 +1,20 @@
+pages/src/i18n/ko.ts
+  s_346328a39e6f82::t_00c3d3c46f8f78 51,68,151,190,210-211
+  s_346328a39e6f82::t_6edcc5b2d702a3 17,53,58,64,66,75,123,125,201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "d8b3212e38373b0c8bdc0e82a92fa5f67e93acb0",
+  "prompts": {},
+  "sessions": {
+    "s_346328a39e6f82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef3104ab-e7ab-4bee-9e15-074055db8eeb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
