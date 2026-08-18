@@ -1,0 +1,47 @@
+pages/src/pages/NotFoundPage.test.tsx
+  s_346328a39e6f82::t_bbd7b76274ce0c 13,17
+pages/src/content/docs/index.ts
+  s_346328a39e6f82::t_60625c4f24705f 180-181
+pages/src/i18n/context.tsx
+  s_346328a39e6f82::t_427795b16bf399 9,12
+  s_346328a39e6f82::t_d90b775a8d2795 24
+pages/src/i18n/ko.ts
+  s_346328a39e6f82::t_962f2e128a19c0 17
+  s_346328a39e6f82::t_6edcc5b2d702a3 71,79,88,138,216
+  s_346328a39e6f82::t_ac13e50ea5cf2c 66,73,77,81,136,147,224,229,279
+  s_346328a39e6f82::t_05f5b5374ee92e 16,23-30,187,243
+  s_346328a39e6f82::t_00c3d3c46f8f78 64,164,205,225-226
+  s_346328a39e6f82::t_f23d15a85a88f2 36-40
+  s_346328a39e6f82::t_9b0898939d9d1e 108-109,137,154-155,163,185-186,193,234,236,238,245,247
+  s_346328a39e6f82::t_e6e991c19420f0 1-15,18-22,31-35,41-63,65,67-69,72,74,76,78,80,82-87,89-106,110-129,131-135,139-146,148-153,156-162,165-177,180-184,188-190,192,194,197-204,206-215,217-223,227-228,230-233,235,237,239-242,244,246,250-252,254-257,259,261-274,276-278,280-318
+  s_346328a39e6f82::t_d23be42c984143 178-179
+  s_346328a39e6f82::t_56a05d481287ed 70,75,107,130,191,195-196,248-249,253,258,260,275
+pages/src/components/Navbar.tsx
+  s_346328a39e6f82::t_ab5b4926622e62 166
+  s_346328a39e6f82::t_6e9998096fd1d0 17,25
+  s_346328a39e6f82::t_41fd0357b7cf27 29-37
+pages/src/components/Footer.tsx
+  s_346328a39e6f82::t_6e9998096fd1d0 15
+pages/src/styles/index.css
+  s_346328a39e6f82::t_1da573b34cc461 34-37
+  s_346328a39e6f82::t_be943e2ebfaec6 38
+  s_346328a39e6f82::t_b777e9147de67f 28-33
+pages/src/i18n/types.ts
+  s_346328a39e6f82::t_e7e91bf90949cb 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "efa3f11da426aed6d7c476f531806ad87f4899d1",
+  "prompts": {},
+  "sessions": {
+    "s_346328a39e6f82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef3104ab-e7ab-4bee-9e15-074055db8eeb",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
