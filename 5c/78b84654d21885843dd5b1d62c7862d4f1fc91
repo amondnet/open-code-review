@@ -1,0 +1,27 @@
+pages/src/content/docs/index.ts
+  s_346328a39e6f82::t_e7ea5634e13737 162-167
+  s_346328a39e6f82::t_b6f3a791c2580d 191-192
+  s_346328a39e6f82::t_b2ad0718c4b9a0 62-66
+pages/src/content/docs/ko/installation.md
+  s_346328a39e6f82::t_0cb90a75fe2a94 1-215
+pages/src/content/docs/ko/configuration.md
+  s_346328a39e6f82::t_e8ac025e7b705b 1-247
+pages/src/content/docs/ko/quickstart.md
+  s_346328a39e6f82::t_02cddb98e9dee8 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5c78b84654d21885843dd5b1d62c7862d4f1fc91",
+  "prompts": {},
+  "sessions": {
+    "s_346328a39e6f82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef3104ab-e7ab-4bee-9e15-074055db8eeb",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
