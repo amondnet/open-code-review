@@ -1,0 +1,27 @@
+pages/src/content/docs/ko/integrations/agent-skill.md
+  s_bb0bc0a3b5254b::t_1f11911d05030e 61,80-81
+  s_bb0bc0a3b5254b::t_2a6598424c86d8 99
+pages/src/content/docs/ko/integrations/delegate.md
+  s_bb0bc0a3b5254b::t_1f11911d05030e 7
+pages/src/content/docs/ko/integrations/ci.md
+  s_bb0bc0a3b5254b::t_1f11911d05030e 10,18,25,36,47-48,66,107,298,343
+  s_bb0bc0a3b5254b::t_2a6598424c86d8 43-44,149
+  s_bb0bc0a3b5254b::t_84649b10684147 45-46
+  s_bb0bc0a3b5254b::t_a7775b37cfb010 58,165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "30bd6bf6067257a8c7a5bd0bf9246308f934edf2",
+  "prompts": {},
+  "sessions": {
+    "s_bb0bc0a3b5254b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ffb026b2-ba7a-4983-b7f0-42c84619f382",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
