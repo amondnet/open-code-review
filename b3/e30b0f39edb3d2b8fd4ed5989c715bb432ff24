@@ -1,0 +1,27 @@
+pages/src/content/docs/ko/configuration.md
+  s_bb0bc0a3b5254b::t_90e7a8be94f98e 234
+pages/src/content/docs/ko/architecture.md
+  s_bb0bc0a3b5254b::t_90e7a8be94f98e 123
+pages/src/content/docs/ko/review-rules.md
+  s_bb0bc0a3b5254b::t_90e7a8be94f98e 29
+pages/src/content/docs/ko/contributing.md
+  s_bb0bc0a3b5254b::t_90e7a8be94f98e 231
+pages/src/content/docs/ko/faq.md
+  s_bb0bc0a3b5254b::t_90e7a8be94f98e 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "b3e30b0f39edb3d2b8fd4ed5989c715bb432ff24",
+  "prompts": {},
+  "sessions": {
+    "s_bb0bc0a3b5254b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ffb026b2-ba7a-4983-b7f0-42c84619f382",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
