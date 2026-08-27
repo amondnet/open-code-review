@@ -1,0 +1,37 @@
+pages/src/content/docs/ko/contributing.md
+  s_bb0bc0a3b5254b::t_2662402edf3f82 8,132,194,203,215-217
+pages/src/content/docs/ko/architecture.md
+  s_bb0bc0a3b5254b::t_833634e8327183 29-30,68-69,110,134-135,192-193,200,280,283,300-302,322,330,379
+  s_bb0bc0a3b5254b::t_2662402edf3f82 48-49,125
+  s_bb0bc0a3b5254b::t_64dac9c554aa8a 389
+  s_bb0bc0a3b5254b::t_6493a3e1e2ccd0 380-381
+pages/src/content/docs/ko/mcp.md
+  s_bb0bc0a3b5254b::t_c108cc35fed6df 16-17,72-75
+pages/src/content/docs/ko/viewer.md
+  s_bb0bc0a3b5254b::t_7d1ec825f36117 164-166
+  s_bb0bc0a3b5254b::t_2662402edf3f82 142
+  s_bb0bc0a3b5254b::t_c108cc35fed6df 75-76,150-151,167
+pages/src/content/docs/ko/faq.md
+  s_bb0bc0a3b5254b::t_7d1ec825f36117 23,151
+  s_bb0bc0a3b5254b::t_2662402edf3f82 175-176,291
+  s_bb0bc0a3b5254b::t_cce12f33d42c9c 24,38-39,43,87-89,118-119,208-209,215-217,226,238-239,247-248,282
+pages/src/content/docs/ko/telemetry.md
+  s_bb0bc0a3b5254b::t_2662402edf3f82 69,91,174,185-186,276,281
+  s_bb0bc0a3b5254b::t_00b7ce1fe5feda 301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "d38a5116c1457fa64496a75a10cbf75752376f05",
+  "prompts": {},
+  "sessions": {
+    "s_bb0bc0a3b5254b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ffb026b2-ba7a-4983-b7f0-42c84619f382",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
