@@ -1,0 +1,23 @@
+pages/src/content/docs/ko/architecture.md
+  s_bb0bc0a3b5254b::t_831f19a19443be 110
+  s_bb0bc0a3b5254b::t_9d076a652d1426 29-30,48-49,380-383
+pages/src/content/docs/ko/faq.md
+  s_bb0bc0a3b5254b::t_9d076a652d1426 217-218,281
+  s_bb0bc0a3b5254b::t_831f19a19443be 237-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "c6fc907f204b81ffef2dc2dc21f19ad3edf4fd52",
+  "prompts": {},
+  "sessions": {
+    "s_bb0bc0a3b5254b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ffb026b2-ba7a-4983-b7f0-42c84619f382",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
